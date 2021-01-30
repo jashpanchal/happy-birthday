@@ -1,0 +1,13 @@
+#jd{
+    height: 100px;
+    background: linear-gradient(#03fcdf 0%,#034afc 100%);
+    display: table;
+    width: 100%;
+    height: 90%;
+}
+img{
+    width:200px;
+}
+body{
+    text-align: center;
+}
